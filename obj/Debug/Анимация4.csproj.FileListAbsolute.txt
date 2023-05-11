@@ -1,0 +1,17 @@
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\Анимация4.Form1.resources
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\Анимация4.Properties.Resources.resources
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\Анимация4.csproj.GenerateResource.Cache
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\bin\Debug\Анимация4.exe
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\bin\Debug\Анимация4.pdb
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\Анимация4.exe
+C:\Users\Даниил.Vlad-PC\Documents\Visual Studio 2008\Projects\Анимация4\Анимация4\obj\Debug\Анимация4.pdb
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\bin\Debug\Анимация4.exe
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\bin\Debug\Анимация4.pdb
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.csproj.AssemblyReference.cache
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.Form1.resources
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.Properties.Resources.resources
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.csproj.GenerateResource.cache
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.csproj.CoreCompileInputs.cache
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.exe
+C:\Users\bavyk\Downloads\Анимация4\Анимация4\Анимация4\obj\Debug\Анимация4.pdb
